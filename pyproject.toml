@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "rest_client"
+name = "restclient"
 version = "0.1.0"
 description = "rest client for testing with log"
 authors = ["Menshikov Valeriy Sergeevich <vmenshikov@ozon.ru>"]
 readme = "README.md"
-packages = [{include = "rest_client"}]
+packages = [{include = "restclient"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
