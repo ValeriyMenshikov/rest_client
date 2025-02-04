@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "rest-client"
+name = "rest_client"
 version = "0.1.0"
 description = "rest client for testing with log"
 authors = ["Menshikov Valeriy Sergeevich <vmenshikov@ozon.ru>"]
