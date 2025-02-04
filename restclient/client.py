@@ -8,8 +8,8 @@ import curlify2
 from json import JSONDecodeError
 from swagger_coverage_py.request_schema_handler import RequestSchemaHandler
 from swagger_coverage_py.uri import URI
-from rest_client.configuration import Configuration
-from rest_client.utilities import allure_attach
+from restclient.configuration import Configuration
+from restclient.utilities import allure_attach
 
 
 class RestClient:
